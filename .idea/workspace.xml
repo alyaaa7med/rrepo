@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e218b281-8535-43a5-8791-fc7cce0183c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Coursera/API/vercel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera/API/API/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/API/API/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera/API/API/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera/API/API/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera/API/Procfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera/API/runtime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local_clone/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/local_clone/file2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workinggit/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/workinggit/file.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/local_clone" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WYDpI5cuLX8g0VT5aYpRlbZSrQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/backend_material/iti/Django",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e218b281-8535-43a5-8791-fc7cce0183c3" name="Changes" comment="" />
+      <created>1696900801359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696900801359</updated>
+      <workItem from="1696900802842" duration="5936000" />
+      <workItem from="1697069307423" duration="505000" />
+      <workItem from="1697069841384" duration="44000" />
+      <workItem from="1697069928445" duration="2928000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

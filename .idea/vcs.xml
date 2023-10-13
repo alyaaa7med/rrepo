@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Book/API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursera/API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/local_clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/remote-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workinggit" vcs="Git" />
+  </component>
+</project>
